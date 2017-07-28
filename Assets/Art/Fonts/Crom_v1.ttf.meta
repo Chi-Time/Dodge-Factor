@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a67de65ba40f7b446a29c073d7dd7be2
+timeCreated: 1501211264
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Crom
+  fontNames:
+  - Crom
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
